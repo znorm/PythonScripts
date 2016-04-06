@@ -1,5 +1,5 @@
 import unittest
-from lispPythonCompiler import evaluator
+from lispPythonInterp import evaluator
 
 class TestLispNormalForms(unittest.TestCase):
 
